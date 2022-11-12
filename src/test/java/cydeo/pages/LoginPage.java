@@ -1,7 +1,8 @@
 package cydeo.pages;
 
-import com.TryCloud.utilities.ConfigurationReader;
-import com.TryCloud.utilities.Driver;
+
+import cydeo.ConfigurationReader;
+import cydeo.Driver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
