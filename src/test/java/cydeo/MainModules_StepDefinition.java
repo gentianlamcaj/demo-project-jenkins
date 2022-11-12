@@ -1,8 +1,7 @@
 package cydeo;
 
-import com.TryCloud.pages.BasePage;
-import com.TryCloud.pages.LoginPage;
-import com.TryCloud.utilities.BrowserUtils;
+import cydeo.pages.BasePage;
+import cydeo.pages.LoginPage;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.junit.Assert;

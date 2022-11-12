@@ -1,6 +1,7 @@
 package cydeo;
 
-import com.TryCloud.pages.LoginPage;
+
+import cydeo.pages.LoginPage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
